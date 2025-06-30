@@ -10,4 +10,5 @@ int main() {
     else {
         cout<<"impar";
     }
+    return 0;
 }
