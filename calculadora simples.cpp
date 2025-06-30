@@ -10,4 +10,6 @@ int main() {
     cout<<"Subtracao: "<<a-b<<endl;
     cout<<"Multiplicacao: "<<a*b<<endl;
     cout<<"Divisao: "<<a/b;
+
+    return 0;
 }
