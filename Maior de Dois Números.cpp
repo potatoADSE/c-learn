@@ -17,5 +17,6 @@ int main() {
     else {
         cout<<"Os dois são iguais";
     }
+    return 0;
     
 }
