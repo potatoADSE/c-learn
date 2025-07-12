@@ -18,7 +18,7 @@ int main() {
         }
     }
     while (!numeros.empty()) {
-        numeros.top()+soma;
+        soma+=numeros.top();
         numeros.pop();
     }
     cout<<soma;
